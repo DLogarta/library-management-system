@@ -45,7 +45,7 @@ git clone https://github.com/DLogarta/library-management-system.git
 
 ![Administrator Login Window](/src/library/management/system/icons/AdminLogin.PNG?raw=true "Administrator Interface")
 
-##License
+## License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Acknowledgements
