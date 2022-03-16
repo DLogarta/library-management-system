@@ -28,22 +28,22 @@ git clone https://github.com/DLogarta/library-management-system.git
 
 - Note that the default username is admin, and the default password is admin
 
-![Login Window](/src/library/management/system/icons/AdminLogin.png)
+![Login Window](/src/library/management/system/icons/AdminLogin.PNG)
 
 - Alternatively, the user can proceed to signup to create his/her own account by entering the necessary information needed to complete the registration.
 
-![Sign Up Window](/src/library/management/system/icons/SignUp.png)
+![Sign Up Window](/src/library/management/system/icons/SignUp.PNG)
 
 - Logging in using the correct credentials will lead you to the main menu of the Library Management System.
 
 - Here, the user can operate different library processes functionalities such as "Issue Book" or "Return Book", depending on what is needed.
 
-![Main Menu Window](/src/library/management/system/icons/Mainmenu.png)
+![Main Menu Window](Mainmenu.PNG)
 
 
 - Administrator functionalities requires elevated access. The user can acquire elevated access by logging in Adminstrator credentials. If the user is already an administrator, the login prompt will be completely skipped and the user can continue with elevated access.
 
-![Administrator Login Window](/src/library/management/system/icons/AdminLogin.png)
+![Administrator Login Window](/src/library/management/system/icons/AdminLogin.PNG)
 
 ##License
 Distributed under the MIT License. See LICENSE.txt for more information.
